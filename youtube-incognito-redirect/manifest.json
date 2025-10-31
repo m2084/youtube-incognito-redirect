@@ -1,6 +1,6 @@
 ﻿{
   "name": "YouTube Auto Incognito Redirect",
-  "description": "Automatically opens YouTube videos in incognito if no timestamp or playlist parameter is present.",
+  "description": "Automatically opens YouTube videos in incognito tab.",
   "version": "1.0",
   "manifest_version": 3,
 
@@ -26,3 +26,4 @@
     "128": "icon128.png"
   }
 }
+
